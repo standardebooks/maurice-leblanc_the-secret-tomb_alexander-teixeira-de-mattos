@@ -5,3 +5,16 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+footer{
+	text-align: right;
+}
+
+.signature{
+	font-variant: small-caps;
+}
+
+#chapter-10 blockquote:first-of-type,
+#chapter-11 blockquote:first-of-type{
+	font-style: italic;
+}

@@ -10,9 +10,10 @@ footer{
 	font-variant: small-caps;
 }
 
-#chapter-9 blockquote:last-of-type{
+#chapter-9 blockquote:last-of-type p{
 	font-style: italic;
 	text-align: center;
+	text-indent: 0;
 }
 
 #chapter-10 blockquote:first-of-type,

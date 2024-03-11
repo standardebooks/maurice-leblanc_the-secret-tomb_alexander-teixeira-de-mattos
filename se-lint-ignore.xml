@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-11.xhtml">
-		<ignore>
-			<code>y-006</code>
-			<reason>Matched punctuation is grammatically correct.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>

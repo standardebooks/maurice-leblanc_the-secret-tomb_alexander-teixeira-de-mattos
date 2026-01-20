@@ -53,7 +53,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/59072</dc:source>
 		<dc:source>https://archive.org/details/secrettomb00mlb</dc:source>
-		<meta property="se:word-count">72832</meta>
+		<meta property="se:word-count">71565</meta>
 		<meta property="se:reading-ease.flesch">75.0</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-leblanc_the-secret-tomb_alexander-teixeira-de-mattos</meta>
 		<dc:creator id="author">Maurice Leblanc</dc:creator>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/maurice-leblanc/the-secret-tomb/alexander-teixeira-de-mattos</dc:identifier>
 		<dc:date>2019-08-08T23:13:09Z</dc:date>
@@ -46,11 +46,11 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young travelling circus owner discovers a clue to ancestral treasure.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young travelling circus owner discovers a clue to ancestral treasure.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;When Dorothy, ropedancer and palmist, arrives at the Château de Roborey with her circus, she’s already observed strange excavations at the grounds. Fate reveals a familial connection and drags her and her motley crew of war orphans into a quest for long-lost ancestral treasure, but her new-found nemesis is always close on her trail.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/maurice-leblanc"&gt;Maurice Leblanc&lt;/a&gt;, most famous for his &lt;a href="https://standardebooks.org/collections/arsene-lupin"&gt;Arsène Lupin&lt;/a&gt; stories, here switches to a new protagonist, but fans of his other work will find her strangely recognisable. Indeed, the mystery presented here is later referenced in &lt;i&gt;The Countess of Cagliostro&lt;/i&gt; as a puzzle that Lupin did not have time to solve. This book was originally serialised in &lt;i&gt;Le Journal&lt;/i&gt; between January and March 1923, and was published in novel form both in French and in this English translation later in the year. It was also later adapted as a French-language made-for-TV movie in 1983.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/59072</dc:source>
 		<dc:source>https://archive.org/details/secrettomb00mlb</dc:source>
